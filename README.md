@@ -1,6 +1,7 @@
 # 📊 Udemy Sales Revenue Analysis using Power BI
 
-![Udemy Logo](https://github.com/Mahesh9679/Udemy_Project/blob/main/Udemy-Logo-New.png)
+![Udemy Logo](https://github.com/fahadkhan9790/Udemy_Project/blob/main/Udemy-Logo-New.png)
+
 
 
 ## 📝 Project Overview
