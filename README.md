@@ -1,7 +1,7 @@
 # 📊 Udemy Sales Revenue Analysis using Power BI
 
 
-![Alt text]((https://github.com/fahad9790/Sales-Revenue-Analysis-using-Power-BI/blob/main/Udemy-Logo-New.png)?raw=true))
+![Alt text](https://github.com/fahad9790/Sales-Revenue-Analysis-using-Power-BI/blob/main/Udemy-Logo-New.png)?raw=true))
 
 ## 📝 Project Overview
 This Power BI project investigates the decline in Udemy’s sales revenue during the years 2016 and 2017 by analyzing six years of historical data. The dashboard provides a comprehensive view of subscriber preferences, pricing strategies, content trends, and revenue patterns. Based on the findings, actionable recommendations are suggested to help recover and enhance platform performance.
